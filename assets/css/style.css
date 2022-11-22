@@ -480,6 +480,8 @@ section {
   padding: 80px 0;
 }
 #about .about-container .background {
+  min-height: 1200px;
+  background: url(https://github.com/hannahklos/simplesite/blob/main/IMG_7818.jpg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   min-height: 500px;
   background: url(https://github.com/hannahklos/simplesite/blob/main/IMG_7818.jpg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
